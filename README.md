@@ -1,19 +1,15 @@
-### Hi there 👋
+# 👋 Olá, Mundo! 
+Eu sou a Tiele Fernandes, mas mais conhecida como Tica!!
 
-<a href="https://www.linkedin.com/in/tiele-fernandes/">Meu perfil do Linkedin</a></p>
+### Sobre Mim
 
+- 🌍 Localização: Indaial, Brasil
+- 💼 Ocupação: Analista de Qualidade de Software PL
 
-<!--
-**tielefernandes/tielefernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Status
 
-Here are some ideas to get you started:
+🔭 Atualmente trabalhando com ferramentas como: Cypress para automação de testes E2E <br>
+🌱 E estou aprendendo um pouco mais sobre testes de API utilizando o mesmo framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato
+- [![Ícone do LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiele-fernandes/)
