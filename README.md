@@ -20,5 +20,7 @@ Eu sou a Tiele Fernandes, mas mais conhecida como Tica!!
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postman" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="Pytest" width="50" hover="Pytest"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tielefernandes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tielefernandes&layout=compact)](https://github.com/tielefernandes/github-readme-stats)
