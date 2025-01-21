@@ -8,8 +8,8 @@ Eu sou a Tiele Fernandes, mas mais conhecida como Tica!!
 
 ### Status
 
-🔭 Atualmente trabalhando com ferramentas como: Cypress para automação de testes E2E <br>
-🌱 E estou aprendendo um pouco mais sobre testes de API utilizando o mesmo framework.
+🔭 Atualmente trabalhando com ferramentas como: Cypress para automação de testes E2E e API <br>
+🌱 E estou aprendendo um pouco mais sobre testes de performance, acessibilidade e QAOPS.
 
 ### Contato
  [![Ícone do LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiele-fernandes/)
