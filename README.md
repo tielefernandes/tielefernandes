@@ -3,8 +3,8 @@ Eu sou a Tiele Fernandes, mas mais conhecida como Tica!!
 
 ### Sobre Mim
 
-- 🌍 Localização: Indaial, Brasil
-- 💼 Ocupação: Quality Assurance Engineer
+- 🌍 Localização: Blumenau, Brasil
+- 💼 Ocupação: Analista de Qualidade de Software
 
 ### Status
 
